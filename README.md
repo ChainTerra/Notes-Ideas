@@ -2,6 +2,7 @@
 ### Ideas Board
 
 ☐ Extensions  
+☐ Mining Farm Management  
 ☐ Integrate Open API Reference  
 ☐ Open Peer Discovery Alternatives  
 ☐ Integrate Mining Configs Database  
