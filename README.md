@@ -1,7 +1,8 @@
-# Notes-Ideas
+# Notes & Ideas
 ### Ideas Board
 
 ☐ Extensions  
+☐ Mobile Analytics  
 ☐ Mining Farm Management  
 ☐ Integrate Open API Reference  
 ☐ Open Peer Discovery Alternatives  
